@@ -10,4 +10,5 @@ printf("c");
   printf("hello ohja");
   printf("hello xyz");
   printf("hello world");
+  printf("hello GLA");
 }
